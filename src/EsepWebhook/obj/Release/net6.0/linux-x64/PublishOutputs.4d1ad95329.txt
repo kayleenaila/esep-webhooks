@@ -1,0 +1,6 @@
+/Users/kayleeleger/UF Studies/S2023/EnterpriseSoftwareEng/EsepWebhook/src/EsepWebhook/bin/Release/net6.0/publish/EsepWebhook.deps.json
+/Users/kayleeleger/UF Studies/S2023/EnterpriseSoftwareEng/EsepWebhook/src/EsepWebhook/bin/Release/net6.0/publish/EsepWebhook.runtimeconfig.json
+/Users/kayleeleger/UF Studies/S2023/EnterpriseSoftwareEng/EsepWebhook/src/EsepWebhook/bin/Release/net6.0/publish/EsepWebhook.pdb
+/Users/kayleeleger/UF Studies/S2023/EnterpriseSoftwareEng/EsepWebhook/src/EsepWebhook/bin/Release/net6.0/publish/Amazon.Lambda.Core.dll
+/Users/kayleeleger/UF Studies/S2023/EnterpriseSoftwareEng/EsepWebhook/src/EsepWebhook/bin/Release/net6.0/publish/Amazon.Lambda.Serialization.SystemTextJson.dll
+/Users/kayleeleger/UF Studies/S2023/EnterpriseSoftwareEng/EsepWebhook/src/EsepWebhook/bin/Release/net6.0/publish/EsepWebhook.dll

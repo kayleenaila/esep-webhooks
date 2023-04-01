@@ -1,0 +1,17 @@
+/Users/kayleeleger/UF Studies/S2023/EnterpriseSoftwareEng/EsepWebhook/src/EsepWebhook/bin/Release/net6.0/linux-x64/EsepWebhook.deps.json
+/Users/kayleeleger/UF Studies/S2023/EnterpriseSoftwareEng/EsepWebhook/src/EsepWebhook/bin/Release/net6.0/linux-x64/EsepWebhook.runtimeconfig.json
+/Users/kayleeleger/UF Studies/S2023/EnterpriseSoftwareEng/EsepWebhook/src/EsepWebhook/bin/Release/net6.0/linux-x64/EsepWebhook.dll
+/Users/kayleeleger/UF Studies/S2023/EnterpriseSoftwareEng/EsepWebhook/src/EsepWebhook/bin/Release/net6.0/linux-x64/EsepWebhook.pdb
+/Users/kayleeleger/UF Studies/S2023/EnterpriseSoftwareEng/EsepWebhook/src/EsepWebhook/bin/Release/net6.0/linux-x64/Amazon.Lambda.Core.dll
+/Users/kayleeleger/UF Studies/S2023/EnterpriseSoftwareEng/EsepWebhook/src/EsepWebhook/bin/Release/net6.0/linux-x64/Amazon.Lambda.Serialization.SystemTextJson.dll
+/Users/kayleeleger/UF Studies/S2023/EnterpriseSoftwareEng/EsepWebhook/src/EsepWebhook/obj/Release/net6.0/linux-x64/EsepWebhook.csproj.AssemblyReference.cache
+/Users/kayleeleger/UF Studies/S2023/EnterpriseSoftwareEng/EsepWebhook/src/EsepWebhook/obj/Release/net6.0/linux-x64/EsepWebhook.GeneratedMSBuildEditorConfig.editorconfig
+/Users/kayleeleger/UF Studies/S2023/EnterpriseSoftwareEng/EsepWebhook/src/EsepWebhook/obj/Release/net6.0/linux-x64/EsepWebhook.AssemblyInfoInputs.cache
+/Users/kayleeleger/UF Studies/S2023/EnterpriseSoftwareEng/EsepWebhook/src/EsepWebhook/obj/Release/net6.0/linux-x64/EsepWebhook.AssemblyInfo.cs
+/Users/kayleeleger/UF Studies/S2023/EnterpriseSoftwareEng/EsepWebhook/src/EsepWebhook/obj/Release/net6.0/linux-x64/EsepWebhook.csproj.CoreCompileInputs.cache
+/Users/kayleeleger/UF Studies/S2023/EnterpriseSoftwareEng/EsepWebhook/src/EsepWebhook/obj/Release/net6.0/linux-x64/EsepWebhook.csproj.CopyComplete
+/Users/kayleeleger/UF Studies/S2023/EnterpriseSoftwareEng/EsepWebhook/src/EsepWebhook/obj/Release/net6.0/linux-x64/EsepWebhook.dll
+/Users/kayleeleger/UF Studies/S2023/EnterpriseSoftwareEng/EsepWebhook/src/EsepWebhook/obj/Release/net6.0/linux-x64/refint/EsepWebhook.dll
+/Users/kayleeleger/UF Studies/S2023/EnterpriseSoftwareEng/EsepWebhook/src/EsepWebhook/obj/Release/net6.0/linux-x64/EsepWebhook.pdb
+/Users/kayleeleger/UF Studies/S2023/EnterpriseSoftwareEng/EsepWebhook/src/EsepWebhook/obj/Release/net6.0/linux-x64/EsepWebhook.genruntimeconfig.cache
+/Users/kayleeleger/UF Studies/S2023/EnterpriseSoftwareEng/EsepWebhook/src/EsepWebhook/obj/Release/net6.0/linux-x64/ref/EsepWebhook.dll

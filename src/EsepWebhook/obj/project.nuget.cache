@@ -1,0 +1,16 @@
+{
+  "version": 2,
+  "dgSpecHash": "cgK+tLlSviDwCX9lfADoCqVJEfx1oEkD6zG/Nf9+WYMItQVTXN0r8jZTvM5+4nKFmNzUBZhhtGQ5x5Ccuw2yNQ==",
+  "success": true,
+  "projectFilePath": "/Users/kayleeleger/UF Studies/S2023/EnterpriseSoftwareEng/EsepWebhook/src/EsepWebhook/EsepWebhook.csproj",
+  "expectedPackageFiles": [
+    "/Users/kayleeleger/.nuget/packages/amazon.lambda.core/2.1.0/amazon.lambda.core.2.1.0.nupkg.sha512",
+    "/Users/kayleeleger/.nuget/packages/amazon.lambda.serialization.systemtextjson/2.3.1/amazon.lambda.serialization.systemtextjson.2.3.1.nupkg.sha512",
+    "/Users/kayleeleger/.nuget/packages/microsoft.netcore.app.ref/6.0.15/microsoft.netcore.app.ref.6.0.15.nupkg.sha512",
+    "/Users/kayleeleger/.nuget/packages/microsoft.netcore.app.runtime.linux-x64/6.0.15/microsoft.netcore.app.runtime.linux-x64.6.0.15.nupkg.sha512",
+    "/Users/kayleeleger/.nuget/packages/microsoft.aspnetcore.app.ref/6.0.15/microsoft.aspnetcore.app.ref.6.0.15.nupkg.sha512",
+    "/Users/kayleeleger/.nuget/packages/microsoft.aspnetcore.app.runtime.linux-x64/6.0.15/microsoft.aspnetcore.app.runtime.linux-x64.6.0.15.nupkg.sha512",
+    "/Users/kayleeleger/.nuget/packages/microsoft.netcore.app.crossgen2.osx-x64/6.0.15/microsoft.netcore.app.crossgen2.osx-x64.6.0.15.nupkg.sha512"
+  ],
+  "logs": []
+}
